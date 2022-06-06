@@ -1,0 +1,39 @@
+.image {
+  height: 200px;
+  text-align: center;
+}
+
+.images {
+  height: 180px;
+}
+
+body {
+  font-family: 'Fredoka', sans-serif;
+  background-color: #00ffd9;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+.intro, .bio, .goals, .skills, .contact {
+  padding: 5px
+}
+
+.title {
+  text-align: center;
+}
+
+.right-para {
+  text-align: right;
+}
+
+.left-para {
+  text-align: left;
+}
+
+footer {
+  background-color: black;
+  color: grey;
+  text-align: center;
+}
+/*#42f5ce, #42f5e3*/
