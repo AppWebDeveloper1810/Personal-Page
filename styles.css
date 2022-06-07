@@ -1,3 +1,13 @@
+.h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
 .image {
   height: 200px;
   text-align: center;
@@ -9,7 +19,7 @@
 
 body {
   font-family: 'Fredoka', sans-serif;
-  background-color: #00ffd9;
+  background-color: #0ff5de;//#00ffd9;
   padding: 0px;
   margin: 0px;
   text-align: center;
@@ -21,14 +31,39 @@ body {
 
 .title {
   text-align: center;
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+  -webkit-border-horizontal-spacing: 2px;
+  -webkit-border-vertical-spacing: 2px;
 }
 
 .right-para {
   text-align: right;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+  -webkit-border-horizontal-spacing: 2px;
+  -webkit-border-vertical-spacing: 2px;
 }
 
 .left-para {
   text-align: left;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+  -webkit-border-horizontal-spacing: 2px;
+  -webkit-border-vertical-spacing: 2px;
 }
 
 footer {
