@@ -30,6 +30,7 @@ body {
 }
 
 .title {
+  font-size: 32;
   text-align: center;
   border-collapse: separate;
   text-indent: initial;
