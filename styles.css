@@ -1,4 +1,4 @@
-#title {
+.main-title {
   font-size: 48px;
 }
 .h2 {
@@ -33,7 +33,6 @@ body {
 }
 
 .title {
-  font-size: 36px;
   text-align: center;
   border-collapse: separate;
   text-indent: initial;
